@@ -1,0 +1,6 @@
+git init
+git add rebuttal.pdf
+git commit -m "first commit of rebuttal"
+git branch -M main
+git remote add origin https://github.com/kk18055247620/rebuttal1.git
+git push -u origin main
